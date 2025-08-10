@@ -1,6 +1,6 @@
 Shalini V.
 -----
-Aspiring Software Developer | Content Writing Enthusiast
+Aspiring Front-End Developer| Curious in Handling Data | Content Writing Enthusiast | Blogger & Vlogger
 
 Fun Fact: I enjoy disturbing my friends
 
@@ -12,10 +12,8 @@ My Career Profile
 
 | Qualification | Institution                  | Year      | Percentage |
 |---------------|-------------------------------|-----------|------------|
-| SSLC          | Seth Hirachand Mutha School   | 2019      | 87%        |
-| HSC           | Shrishti Vidyashram           | 2021      | 92%        |
 | BCA           | Auxilium College               | 2021-2024 | 86.7%      |
-| MCA           | Ethiraj College for Women      | 2024-2026 | -          |
+| MCA           | Ethiraj College for Women      | 2024-2026 | 9.0         |
 
 
 
@@ -24,29 +22,27 @@ My Career Profile
 ------
 Programming Languages:
 
-JavaScript | HTML | C | Python | MySQL
+JavaScript | HTML | CSS | Python | MySQL
 
 
 
 Technical Skills:
 -------
-Cybersecurity
-
-Game Development
-
 Web Development
 
-Deep Learning
+Machine Learning
+
+Data Analyst
 
 
 Soft Skills:
 ------
-Communication | Leadership | Project Planning
+Communication | Leadership | Project Planning | Creativity
 
 
 Software Proficiency:
 ------
-Tally ERP | Canva | Power BI | MS Office | Android Studio
+ Canva | Power BI | MS Office | Blogging | Video Editing
 
 
 
@@ -54,15 +50,12 @@ Tally ERP | Canva | Power BI | MS Office | Android Studio
 
 🛠️ Projects
 -----
-1. Game Development Using Python (2D Car Racing)
-Developed a 2D car racing game using Python's Pygame library, focusing on game mechanics and optimization.
 
-
-2. Predicting Bird Species Using Deep Learning
+1. Predicting Bird Species Using Deep Learning
 Built a deep learning model for bird species classification, implementing advanced algorithms for accurate predictions.
 
 
-3. E-commerce Website for Home Decor (Ongoing)
+2. E-commerce Website for Home Decor
 Currently developing a modern e-commerce platform for home decor products using the latest web technologies.
 
 
@@ -72,10 +65,9 @@ Currently developing a modern e-commerce platform for home decor products using 
 
 🌟 Experience
 ------
-Content Writer Intern, Earth5R
+1.Blogger on Healthy living in IT field as well as today's world.
 
-Working as a content writing intern, where I produce content related to sustainability and environmental topics.
-
+2.Elite Tech intern on Data Analytics.
 
 
 
@@ -85,4 +77,6 @@ Working as a content writing intern, where I produce content related to sustaina
 -------
 www.linkedin.com/in/shalinivenkatesan
 
-Blog: [Link to Blog]
+shalinivenkatesan1120@gmail.com
+
+https://digital-mind-healthy-body.blogspot.com/
