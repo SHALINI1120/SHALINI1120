@@ -10,9 +10,9 @@ My Career Profile
 🎓 Education
 ----
 
-| Qualification | Institution                  | Year      | Percentage |
+| Qualification | Institution                  | Year      | CGPA |
 |---------------|-------------------------------|-----------|------------|
-| BCA           | Auxilium College               | 2021-2024 | 86.7%      |
+| BCA           | Auxilium College               | 2021-2024 | 8.6      |
 | MCA           | Ethiraj College for Women      | 2024-2026 | 9.0         |
 
 
@@ -22,7 +22,7 @@ My Career Profile
 ------
 Programming Languages:
 
-JavaScript | HTML | CSS | Python | MySQL
+JavaScript | HTML | CSS | Python | MySQL | React
 
 
 
@@ -37,12 +37,12 @@ Data Analyst
 
 Soft Skills:
 ------
-Communication | Leadership | Project Planning | Creativity
+Communication | Leadership | Project Planning 
 
 
 Software Proficiency:
 ------
- Canva | Power BI | MS Office | Blogging | Video Editing
+ Canva | Power BI | MS Office | Blogging | Tableau
 
 
 
@@ -65,10 +65,11 @@ Currently developing a modern e-commerce platform for home decor products using 
 
 🌟 Experience
 ------
-1.Blogger on Healthy living in IT field as well as today's world.
+1.Blogger 
 
 2.Elite Tech intern on Data Analytics.
 
+3.Intern as Software Developer at Pace Software Solutions
 
 
 ---
@@ -79,4 +80,4 @@ www.linkedin.com/in/shalinivenkatesan
 
 shalinivenkatesan1120@gmail.com
 
-https://digital-mind-healthy-body.blogspot.com/
+https://intalks-free.blogspot.com/
