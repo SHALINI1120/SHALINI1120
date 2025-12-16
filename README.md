@@ -1,7 +1,6 @@
 Shalini V.
 -----
-Aspiring Front-End Developer| Curious in Handling Data | Content Writing Enthusiast | Blogger & Vlogger
-Fun Fact: I enjoy disturbing my friends
+Aspiring Front-End Developer| Curious in Handling Data | Content Writing Enthusiast | Blogger
 
 My Career Profile
 -----
