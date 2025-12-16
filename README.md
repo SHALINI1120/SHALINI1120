@@ -58,6 +58,6 @@ Communication | Leadership | Project Planning
 
 📫 Connect with Me
 -------
-www.linkedin.com/in/shalinivenkatesan
-shalinivenkatesan1120@gmail.com
-https://intalks-free.blogspot.com/
+www.linkedin.com/in/shalinivenkatesan |
+shalinivenkatesan1120@gmail.com |
+https://intalks-free.blogspot.com/ 
