@@ -28,38 +28,26 @@ JavaScript | HTML | CSS | Python | MySQL | React
 
 Technical Skills:
 -------
-Web Development
-
-Machine Learning
-
-Data Analyst
-
-
-Soft Skills:
-------
-Communication | Leadership | Project Planning 
-
+Web Development| Machine Learning| Data Analyst
 
 Software Proficiency:
 ------
  Canva | Power BI | MS Office | Blogging | Tableau
-
-
+ 
+Soft Skills:
+------
+Communication | Leadership | Project Planning 
 
 ---
 
 🛠️ Projects
 -----
-
-1. Predicting Bird Species Using Deep Learning
-Built a deep learning model for bird species classification, implementing advanced algorithms for accurate predictions.
-
-
-2. E-commerce Website for Home Decor
-Currently developing a modern e-commerce platform for home decor products using the latest web technologies.
-
-
-
+1.Fake News Detection using BERT model
+2.Single Page Cv 
+3.Simple HTML Website
+4.Menu Page Website
+5.To-Do list
+6.Digital Clock
 
 ---
 
